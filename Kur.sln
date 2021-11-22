@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kur", "Kur.csproj", "{C32872EA-9C04-416C-85CB-B0E07C04C3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JohnBoutLibrary", "..\ClassLibrary1\JohnBoutLibrary.csproj", "{A1C9D30E-A9D8-44FB-BBBC-0A5260175C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32872EA-9C04-416C-85CB-B0E07C04C3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32872EA-9C04-416C-85CB-B0E07C04C3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32872EA-9C04-416C-85CB-B0E07C04C3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32872EA-9C04-416C-85CB-B0E07C04C3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C9D30E-A9D8-44FB-BBBC-0A5260175C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C9D30E-A9D8-44FB-BBBC-0A5260175C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C9D30E-A9D8-44FB-BBBC-0A5260175C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C9D30E-A9D8-44FB-BBBC-0A5260175C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36EC947-E12E-44A9-8F55-A505E4878DC3}
+	EndGlobalSection
+EndGlobal
